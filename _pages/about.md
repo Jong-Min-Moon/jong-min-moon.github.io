@@ -40,7 +40,7 @@ I completed my Master's in Statistics, advised by [Prof. Ilmun Kim](https://ilmu
 * In-vivo integration of soft neural probes through high-resolution printing of liquid electronics on the cranium
 <br />
 <small>
-Young-Geun Park, Yong Won Kwon, Chin Su Koh, Enji Kim, Dong Ha Lee, Sumin Kim, <u>Jongmin Mun</u> Yeon-Mi Hong, Sanghoon Lee, Ju-Young Kim, Jae-Hyun Lee, Hyun Ho Jung, Jinwoo Cheon, Jin Woo Chang, Jang-Ung Park (2024). **Nature communications**.  [Paper](https://www.nature.com/articles/s41467-024-45768-0).</small>
+Young-Geun Park, Yong Won Kwon, Chin Su Koh, Enji Kim, Dong Ha Lee, Sumin Kim, <u>Jongmin Mun</u>, Yeon-Mi Hong, Sanghoon Lee, Ju-Young Kim, Jae-Hyun Lee, Hyun Ho Jung, Jinwoo Cheon, Jin Woo Chang, Jang-Ung Park (2024). **Nature communications**.  [Paper](https://www.nature.com/articles/s41467-024-45768-0).</small>
 
 
 <br />

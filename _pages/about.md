@@ -18,7 +18,7 @@ I completed my Master's in Statistics, advised by [Prof. Ilmun Kim](https://ilmu
 * Minimax Optimal Two-Sample Testing under Local Differential Privacy <br />
 <small><u>Jongmin Mun</u>, Seungwoo Kwak, Ilmun Kim (2024). **Preprint**. [Paper](https://arxiv.org/abs/2311.06138)</small>
 
-## Classification under class imabalance
+## Classification under class imbalance
 * Weighted support vector machine for extremely imbalanced data
 <br />
 <small><u>Jongmin Mun</u>, Sungwan Bang, Jaeoh Kim (2024). **Computational Statistics & Data Analysis**. [Paper](https://www.sciencedirect.com/science/article/pii/S0167947324001622).</small>

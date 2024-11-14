@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 A pdf version [CV](http://wldyddl5510.github.io/files/cv.pdf).
 
@@ -80,3 +80,4 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->
+ -->

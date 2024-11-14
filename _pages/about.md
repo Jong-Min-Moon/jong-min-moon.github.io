@@ -22,7 +22,7 @@ I completed my Master's in Statistics, advised by [Prof. Ilmun Kim](https://ilmu
 * Weighted support vector machine for extremely imbalanced data
 <br />
 <small><u>Jongmin Mun</u>, Sungwan Bang, Jaeoh Kim (2024). **Computational Statistics & Data Analysis**. [(paper)](https://www.sciencedirect.com/science/article/pii/S0167947324001622)
-[(preprint)](/workspaces/Jong-Min-Moon.github.io/files/preprint_gswsvm.pdf)
+[(preprint)](http://Jong-Min-Moon.github.io/files/preprint_gswsvm.pdf)
 .</small>
 
 * Prediction of forest fire risk for artillery military training using weighted support vector machine for imbalanced data
@@ -30,7 +30,7 @@ I completed my Master's in Statistics, advised by [Prof. Ilmun Kim](https://ilmu
 <small>Ji Hyun Nam
 <sup>\*</sup>, 
 <u>Jongmin Mun</u>
-<sup>\*</sup> , Seongil Jo, Jaeoh Kim (2024). **Journal of Classification**. [(paper)](https://link.springer.com/article/10.1007/s00357-024-09467-1) [(preprint)](/workspaces/Jong-Min-Moon.github.io/files/manuscript_joc.pdf)</small>
+<sup>\*</sup> , Seongil Jo, Jaeoh Kim (2024). **Journal of Classification**. [(paper)](https://link.springer.com/article/10.1007/s00357-024-09467-1) [(preprint)](http://Jong-Min-Moon.github.io/files/manuscript_joc.pdf)</small>
 
 * Sex differences in autism spectrum disorder using class imbalance adjusted functional connectivity
 <br />

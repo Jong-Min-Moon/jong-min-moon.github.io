@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiyoung Park"
+title                    : "Jongmin Mun"
 title_separator          : "-"
-name                     : &name "Jiyoung Park"
-description              : &description "TAMU Stat PhD"
+name                     : &name "Jongmin Mun"
+description              : &description "USC Data Sciences and Operations PhD"
 url                      : https://jong-min-moon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jong-Min-Moon/Jong-Min-Moon.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiyoung Park"
+  name             : "Jongmin Mun"
   avatar           : "profile3.jpg"
-  bio              : "TAMU Stat PhD Student"
-  location         : "College Station, TX, US"
+  bio              : "USC Data Sciences and Operations PhD Student"
+  location         : "Los Angeles, CA, US"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "wldyddl5510@tamu.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ZYoKWAgAAAAJ"
+  email            : "jongmin.mun@marshall.usc.edu"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #  uri              :
 #  bitbucket        :
@@ -96,13 +96,13 @@ author:
 #  flickr           :
 #  facebook         :
 #  foursquare       :
-  github           : "wldyddl5510"
+  github           : "Jong-Min-Moon"
 #  google_plus      :
 #  keybase          :
 #  instagram        :
 #  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #  lastfm           :
-  linkedin         : "Jiyoung-park-b13469191"
+#  linkedin         : "Jiyoung-park-b13469191"
 #  orcid            : "http://orcid.org/yourorcidurl"
 #  pinterest        :
 #  soundcloud       :

@@ -16,14 +16,14 @@ I completed my Master's in Statistics, advised by [Prof. Ilmun Kim](https://ilmu
 ## Privacy-preserving A/B testing
 
 * Minimax Optimal Two-Sample Testing under Local Differential Privacy <br />
-<small><u>Jongmin Mun</u>, Seungwoo Kwak, Ilmun Kim (2024). **Preprint**. [(arxiv)](https://arxiv.org/)</small>
+<small><u>Jongmin Mun</u>, Seungwoo Kwak, Ilmun Kim (2024). **Preprint**. [(arxiv)](https://arxiv.org/abs/2411.09064)</small>
 
 ## Classification under class imbalance
 * Weighted support vector machine for extremely imbalanced data
 <br />
 <small><u>Jongmin Mun</u>, Sungwan Bang, Jaeoh Kim (2024). **Computational Statistics & Data Analysis**. [(paper)](https://www.sciencedirect.com/science/article/pii/S0167947324001622)
 [(preprint)](http://Jong-Min-Moon.github.io/files/preprint_gswsvm.pdf)
-.</small>
+</small>
 
 * Prediction of forest fire risk for artillery military training using weighted support vector machine for imbalanced data
 <br />
